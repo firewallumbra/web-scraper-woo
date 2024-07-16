@@ -25,17 +25,68 @@ The web scraper is particularly useful in fields like data analysis, market rese
 python3 web_scraper.py
 ```
 
-## Example Output
 
-Below is an example output from scraping a hypothetical website:
+Below is an example output from scraping TryHackMe's website's home page:
 
 ```
-Enter the target URL: http://example.com
-Starting scraping on: http://example.com
-Title: Example Domain
-Headings: ['Example Domain', 'This domain is for use in illustrative examples in documents.']
-Links: ['http://www.iana.org/domains/example']
-Scraping completed in: 0:00:05.123456
-```
+Enter the URL to scrape -> https://tryhackme.com
+/
+#
+/hacktivities
+/r/hacktivities/practice
+/r/hacktivities/search
+#
+/games/koth
+/leaderboards
+#
+/classrooms
+/develop-rooms
+/business
+/r/pricing
+/r/hacktivities/search?&page=1&kind=rooms&order=newest
 
-This README provides a brief overview of the web scraper project, explaining its purpose, how to install it, and an example of its usage.
+
+
+
+/login
+/signup
+/
+/hacktivities
+None
+/games/koth
+/leaderboards
+None
+/network/throwback
+/room/wreath
+None
+/classrooms
+/develop-rooms
+/business
+/r/pricing
+/r/hacktivities/search
+/login
+/signup
+https://www.secjuice.com/tryhackme-learn-teach-cybersecurity/
+
+https://www.enterprisetimes.co.uk/2019/02/27/tryhackme-a-new-cyber-security-skills-platform/
+https://www.contextis.com/en/news/context-sponsors-first-university-hackback-ctf-event
+https://www.infosecurity-magazine.com/next-gen-infosec/interview-portsmouth-tryhackme-1-1/
+/hacktivities
+/business
+/classrooms
+/games/koth
+/resources/newsroom
+/about
+/resources/blog
+/subscriptions
+/glossary
+/work-at-thm
+/careers
+https://twitter.com/realtryhackme
+/cdn-cgi/l/email-protection#e48c8188888ba490969d8c85878f8981ca878b89
+https://discord.gg/tryhackme
+/forum
+/legal/terms-of-use
+/login
+/r/login/sso
+```
